@@ -1,0 +1,11 @@
+Spring Boot Tutorial provides basic and advanced concepts of Spring Framework. Our Spring Boot Tutorial is designed for beginners and professionals both.
+
+Spring Boot is a Spring module that provides the RAD (Rapid Application Development) feature to the Spring framework.
+
+Our Spring Boot Tutorial includes all topics of Spring Boot such, as features, project, maven project, starter project wizard, Spring Initializr, CLI, 
+applications, annotations, dependency management, properties, starters, Actuator, JPA, JDBC, etc.
+
+Spring Boot is a project that is built on the top of the Spring Framework. It provides an easier and faster way to set up, configure,
+and run both simple and web-based applications.
+
+It is a Spring module that provides the RAD (Rapid Application Development) feature to the Spring Framework. It is used to create a stand-alone Spring-based application that you can just run because it needs minimal Spring configuration.
